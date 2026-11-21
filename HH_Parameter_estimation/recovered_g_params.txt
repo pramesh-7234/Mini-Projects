@@ -1,0 +1,3 @@
+gNa_bar_recovered = 118.400621829
+gK_bar_recovered = 35.7211499884
+gL_bar_recovered = 0.292070928857
