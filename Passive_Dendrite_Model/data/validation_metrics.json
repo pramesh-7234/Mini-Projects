@@ -1,0 +1,22 @@
+{
+  "solver": "BDF",
+  "boundary_conditions": "V(0,t)=V(L,t)=0 (Dirichlet)",
+  "reference_domain": "infinite cable with a one-cell-wide, uniform pulse",
+  "centre_temporal_rmse_mV": 0.007863491635102731,
+  "centre_temporal_max_abs_error_mV": 0.013633070389260177,
+  "central_1lambda_profile_rmse_mV": 0.012805200771579468,
+  "peak_voltage_mV": 1.2222479739995766,
+  "profile_time_ms": 40.0,
+  "parameters": {
+    "length_um": 1000.0,
+    "n_points": 201,
+    "tau_ms": 10.0,
+    "lambda_um": 200.0,
+    "pulse_start_ms": 10.0,
+    "pulse_end_ms": 40.0,
+    "input_mV": 100.0,
+    "duration_ms": 100.0,
+    "time_samples": 501,
+    "solver": "BDF"
+  }
+}
