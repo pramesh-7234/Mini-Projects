@@ -8,7 +8,7 @@ Each project has its own folder, source code, explanatory Jupyter notebook and R
 
 | Project | Main question | Methods and tools |
 | --- | --- | --- |
-| [Hodgkin–Huxley Parameter Estimation](HH_param_estimation/) | Can ion-channel conductances be estimated from a noisy synthetic membrane-voltage trace? | Coupled nonlinear ODEs, SciPy BDF integration, mean squared error, bounded differential evolution |
+| [Hodgkin–Huxley Parameter Estimation](HH_Parameter_estimation/) | Can ion-channel conductances be estimated from a noisy synthetic membrane-voltage trace? | Coupled nonlinear ODEs, SciPy BDF integration, mean squared error, bounded differential evolution |
 | [Synthetic Spike Generation](Synthetic_Spike_Generation/) | How can simplified extracellular-like recordings be generated with known spike times and added noise? | Waveform templates, random event generation, Gaussian noise, NumPy, pandas and Matplotlib |
 | [Passive Dendrite Model](Passive_Dendrite_Model/) | How does a local voltage disturbance spread and decay along an idealised passive dendrite? | Cable PDE, finite differences, sparse matrices, Method of Lines, BDF/RK45, Green-function comparison |
 
